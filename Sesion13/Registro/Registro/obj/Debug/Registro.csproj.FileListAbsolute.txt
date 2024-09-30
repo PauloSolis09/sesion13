@@ -1,0 +1,10 @@
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#-2 Parcial\Semana 7\Sesion13\Registro\Registro\bin\Debug\Registro.exe.config
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#-2 Parcial\Semana 7\Sesion13\Registro\Registro\bin\Debug\Registro.exe
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#-2 Parcial\Semana 7\Sesion13\Registro\Registro\bin\Debug\Registro.pdb
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#-2 Parcial\Semana 7\Sesion13\Registro\Registro\obj\Debug\Registro.csproj.AssemblyReference.cache
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#-2 Parcial\Semana 7\Sesion13\Registro\Registro\obj\Debug\Registro.Form1.resources
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#-2 Parcial\Semana 7\Sesion13\Registro\Registro\obj\Debug\Registro.Properties.Resources.resources
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#-2 Parcial\Semana 7\Sesion13\Registro\Registro\obj\Debug\Registro.csproj.GenerateResource.cache
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#-2 Parcial\Semana 7\Sesion13\Registro\Registro\obj\Debug\Registro.csproj.CoreCompileInputs.cache
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#-2 Parcial\Semana 7\Sesion13\Registro\Registro\obj\Debug\Registro.exe
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#-2 Parcial\Semana 7\Sesion13\Registro\Registro\obj\Debug\Registro.pdb

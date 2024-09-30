@@ -1,0 +1,10 @@
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#-2 Parcial\Semana 7\Sesion 12\Sesion13\Burbuja\obj\Debug\Burbuja.csproj.AssemblyReference.cache
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#-2 Parcial\Semana 7\Sesion 12\Sesion13\Burbuja\obj\Debug\Burbuja.Form1.resources
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#-2 Parcial\Semana 7\Sesion 12\Sesion13\Burbuja\obj\Debug\Burbuja.Properties.Resources.resources
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#-2 Parcial\Semana 7\Sesion 12\Sesion13\Burbuja\obj\Debug\Burbuja.csproj.GenerateResource.cache
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#-2 Parcial\Semana 7\Sesion 12\Sesion13\Burbuja\obj\Debug\Burbuja.csproj.CoreCompileInputs.cache
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#-2 Parcial\Semana 7\Sesion 12\Sesion13\Burbuja\bin\Debug\Burbuja.exe.config
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#-2 Parcial\Semana 7\Sesion 12\Sesion13\Burbuja\bin\Debug\Burbuja.exe
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#-2 Parcial\Semana 7\Sesion 12\Sesion13\Burbuja\bin\Debug\Burbuja.pdb
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#-2 Parcial\Semana 7\Sesion 12\Sesion13\Burbuja\obj\Debug\Burbuja.exe
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#-2 Parcial\Semana 7\Sesion 12\Sesion13\Burbuja\obj\Debug\Burbuja.pdb
